@@ -2,8 +2,8 @@
 
 # Project Name - Edit this line
 
-Project Source Link : www.github.com/project-repo
-Link: www.link-to-Project-Code-of-Conduct-Page
+Project Source Link: www.github.com/project - Add project source code link
+Link: www.link-to-Project-Code-of-Conduct-Page - Add CodeofConduct.md link/ 
 
 #### Checklist:
 
