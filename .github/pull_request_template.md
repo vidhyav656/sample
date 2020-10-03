@@ -1,8 +1,6 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Project] -> [Project CoC URL]`
-
 # Project Name - Edit this line
 
-Project Source Link: www.github.com/project - Add project source code link
+Project Source Link: www.github.com/project - Edit with project source code link
 
 Link: www.link-to-Project-Code-of-Conduct-Page - Add CodeofConduct.md link/ website COC link
 
