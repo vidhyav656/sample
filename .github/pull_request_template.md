@@ -7,4 +7,4 @@ Link: www.link-to-Project-Code-of-Conduct-Page - Add CodeofConduct.md link/ webs
 #### Checklist:
 
 - [ ] Have you checked to ensure there aren't other open [Pull Requests](../pulls) for the same update/change?
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [ ] I have performed a self-review of submitted project and its follows the guidelines of the project.
