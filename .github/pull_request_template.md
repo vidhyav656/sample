@@ -2,7 +2,7 @@
 
 Project Source Link: www.github.com/project - Edit with project source code link
 
-Link: www.link-to-Project-Code-of-Conduct-Page - Link to code of conduct in repo
+Link: www.link-to-Project-Code-of-Conduct-Page - Link to code of conduct in repo or documentation
 
 #### Checklist:
 
