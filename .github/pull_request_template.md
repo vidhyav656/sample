@@ -1,8 +1,8 @@
 # Project Name - Edit this line
 
-Project Source Link: www.github.com/project - Edit with project source code link
+Project Source Link: https://github.com/git/git - Replace sample link with project source code link
 
-Link: www.link-to-Project-Code-of-Conduct-Page - Link to code of conduct in repo or documentation
+Link: https://github.com/git/git/blob/master/CODE_OF_CONDUCT.md - Replace sample link to the project code of conduct in repo or documentation
 
 #### Checklist:
 
